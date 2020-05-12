@@ -33,5 +33,10 @@
                         }
               })
 
+(def my-vector [1 2 3 4 5 6 7 8 9 10])
+
+(defn get-vector [] my-vector)
 (defn get-all []
   [pedido1 pedido2 pedido3 pedido4])
+
+
