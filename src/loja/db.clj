@@ -7,7 +7,7 @@
                         :camisa  {:id :camisa :qnt 2 :preco-unitario 50}
                         :tenis   {:id :tenis :qnt 1 :preco-unitario 100}
                         }
-              })
+              })  
 (def pedido2 {
               :usuario 1
               :itens   {
